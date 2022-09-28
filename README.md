@@ -26,7 +26,7 @@ To run the webserice use the command : ```python webservice.py```
 #### ADD Transaction
 Send a ```POST``` request to ```http://127.0.0.1:5000/api/addTransaction``` where ```/api/addTransaction``` is the endpoint.
 *Input:* Json with "payer","points" and "timestamp" field. 
-    example= { "payer": "DANNON", "points": 1000, "timestamp": "2020-11-02T14:00:00Z" }
+example= { "payer": "DANNON", "points": 1000, "timestamp": "2020-11-02T14:00:00Z" }
 *Output:* Message from server indicating succesfull addition of transaction
 
 #### Spend Points
