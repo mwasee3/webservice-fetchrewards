@@ -42,5 +42,5 @@ Send a ```GET``` request to ```http://127.0.0.1:5000/api/totalPoints``` where ``
 
 
 ## test.py
-**By default config file uses 127.0.0.1 to run test.py** it can be changed in the configfile.ini to test accordingly.
+**By default config file uses 127.0.0.1 to run test.py**, it can be changed in the configfile.ini to test accordingly.<br />
 To run test.py use the command : ```python test.py```
