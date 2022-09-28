@@ -7,9 +7,7 @@ https://www.python.org/downloads/
 
 
 ## Dependencies installation
-To install all dependencies please run the following command
-Command:
-```pip install -r requirements.txt```
+To install all dependencies please run the following command: ```pip install -r requirements.txt```
 
 ## Files
 1. webservice.py (webservice)
