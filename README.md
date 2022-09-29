@@ -10,8 +10,8 @@ https://www.python.org/downloads/
 To install all dependencies please run the following command: ```pip install -r requirements.txt```
 
 ## Files
-1. webservice.py (webservice)
-2. requirements.txt (contains requirements for program)
+1. [webservice.py](webservice.py) (webservice)
+2. [requirements.txt](requirements.txt) (contains requirements for program)
 3. db_functions.py (contains functions used to perform calculations and db operations)
 4. test.py (Test file to test and show how the webserice can be used)
 5. configfile.ini (contains API URL's for test.py)
