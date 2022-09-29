@@ -1,5 +1,5 @@
 # Webservice Fetch Rewards
-Web service that accepts HTTP requests and returns responses based on the conditions outlined in PDF.<br />
+Web service that accepts HTTP requests and returns responses based on the conditions outlined in PDF [a relative link](webservice_assignment.pdf).<br />
 *Clone repository on local device.*
 ## Installation of python 
 If you dont have python on your machine, you can install it from here and add pip and python to environment variables.
