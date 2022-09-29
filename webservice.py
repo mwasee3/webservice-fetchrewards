@@ -31,7 +31,7 @@ def spend_points():
     except:
         abort(400, 'Invalid Parameters')
     retValue = spendPoints_calc(sql,points)
-    return retValue
+    return json.dumps(retValue)
 
 
 #Route for all player point balance
